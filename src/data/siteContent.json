@@ -1,0 +1,48 @@
+{
+  "header": {
+    "nav": ["AI Banking", "Payments", "Payouts", "Support"],
+    "cta": "Start Now"
+  },
+  "hero": {
+    "kicker": "🚀 AI-Driven Banking",
+    "title": "AI-powered",
+    "title2": "Banking & Payment Solutions",
+    "title3": "built for Modern Businesses",
+    "subtitle": "UzOFin brings intelligent automation, real-time payments, and seamless financial operations together so you can innovate without friction.",
+    "primaryCta": "Start Now",
+    "secondaryCta": "Watch Demo"
+  },
+  "why": {
+    "title": "Why UzOFin?",
+    "items": [
+      { "title": "Dashboard", "desc": "Unified view of all transactions and business metrics in real-time." },
+      { "title": "AI-Driven Decisions", "desc": "Machine learning models optimize payment routing and risk detection." },
+      { "title": "Unified Dashboard", "desc": "Single interface for all your banking and payment needs." },
+      { "title": "Developer-Friendly APIs", "desc": "Flexible integrations with extensive documentation and support." },
+      { "title": "Enterprise-Grade Security", "desc": "Bank-level encryption and compliance with international standards." },
+      { "title": "24/7 Support", "desc": "Round-the-clock assistance from our expert team." }
+    ]
+  },
+  "industry": {
+    "kicker": "24/7 support",
+    "title": "Industry Standard",
+    "cards": [
+      { "title": "Scalability & Integration", "desc": "Powerful integrations and scale." },
+      { "title": "Step-by-step guide", "desc": "Guided onboarding and docs." },
+      { "title": "SaaS based solution", "desc": "Cloud native, secure, and reliable." }
+    ]
+  },
+  "cta": {
+    "title": "Ready to get started?",
+    "button": "Start Now"
+  },
+  "footer": {
+    "tagline": "Powering the future of financial operations.",
+    "description": "UzOFin is a comprehensive financial platform designed for modern businesses.",
+    "links": {
+      "product": ["Features", "Pricing", "Docs"],
+      "company": ["About", "Careers", "Contact"],
+      "legal": ["Terms", "Privacy"]
+    }
+  }
+}
