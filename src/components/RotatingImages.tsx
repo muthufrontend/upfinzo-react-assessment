@@ -46,7 +46,7 @@ const RotatingImages = () => {
 }, []);
 
   return (
-    <div className="flex flex-col lg:flex-row w-full justify-around py-16 md:py-24 bg-gradient-to-b from-black via-gray-900 to-black bg-[url('/waveBg.png')] bg-cover bg-center">
+    <div className="flex flex-col lg:flex-row w-full justify-around py-16 md:py-24 bg-gradient-to-b from-black via-gray-900 to-black bg-[url('waveBg.png')] bg-cover bg-center">
     <div className="flex justify-center items-center py-16">
       <div
         ref={containerRef}

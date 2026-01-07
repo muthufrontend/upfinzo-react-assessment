@@ -1,6 +1,6 @@
 const APIs = () => {
   return (
-    <section className="relative z-10 py-16 md:pb-48 bg-[url('/StartBuilding_001_BG.png')] bg-cover bg-center">
+    <section className="relative z-10 py-16 md:pb-48 bg-[url('StartBuilding_001_BG.png')] bg-cover bg-center">
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-6xl mb-8">Build Faster with Our <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">Powerful API's</span></h2>
         <p className="text-gray-400 mb-12 max-w-2xl mx-auto">
