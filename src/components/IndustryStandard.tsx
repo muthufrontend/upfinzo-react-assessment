@@ -74,7 +74,7 @@ const IndustryStandard = () => {
   ];
 
   return (
-    <section className="relative z-10 py-16 md:py-24 border-t border-gray-800 bg-[url('/assets/industry-bg.svg')] bg-cover bg-center">
+    <section className="relative z-10 py-16 md:py-24 border-t border-gray-800 bg-[url('assets/industry-bg.svg')] bg-cover bg-center">
       <div className="px-4 text-center">
         <p className="mb-4 text-3xl text-cyan-400">24/7 support</p>
         <h2 data-animate="up" className="text-6xl mb-8">

@@ -3,7 +3,7 @@ import content from '../data/siteContent.json';
 const CTA = () => {
   return (
     <section className="relative z-10 py-20 md:py-32 text-center">
-      <div className="relative z-10 py-16 md:py-24 bg-[url('/assets/Abstract.png')] bg-contain bg-center bg-no-repeat">
+      <div className="relative z-10 py-16 md:py-24 bg-[url('assets/Abstract.png')] bg-contain bg-center bg-no-repeat">
         <h2 className="text-4xl md:text-[96px] mb-2">
           The future of your
         </h2>

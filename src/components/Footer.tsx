@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className='text-left'>
             <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4">
-              <img src="/assets/Logo.svg" alt="UzOFin" className="h-8 w-auto" />
+              <img src="assets/Logo.svg" alt="UzOFin" className="h-8 w-auto" />
             </div>
             <p className="text-gray-400 text-sm">{content.footer.tagline}</p>
             <span className="text-gray-400 text-sm">{content.footer.description}</span>

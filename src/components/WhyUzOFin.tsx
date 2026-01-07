@@ -103,7 +103,7 @@ const WhyUzOFin = () => {
                     <h3 className="text-lg font-semibold mb-2 text-white">{it.title}</h3>
                     <p className="text-sm text-cyan-400">{it.desc}</p>
                     <img
-                      src="/assets/arrow.svg"
+                      src="assets/arrow.svg"
                       alt="arrow"
                       className="w-4 h-4 mt-2 absolute right-2 top-1/2 transform -translate-y-1/2 
                                 transition-transform duration-300 group-hover:translate-x-2"

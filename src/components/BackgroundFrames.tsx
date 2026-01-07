@@ -17,12 +17,12 @@ const BackgroundFrames = () => {
       <div
         id="left-bg"
         className="absolute inset-0 bg-no-repeat z-0"
-        style={{ backgroundImage: 'url(/assets/frame-L.png)', backgroundPosition: 'left' }}
+        style={{ backgroundImage: 'url(assets/frame-L.png)', backgroundPosition: 'left' }}
       ></div>
       <div
         id="right-bg"
         className="absolute inset-0 bg-no-repeat z-0"
-        style={{ backgroundImage: 'url(/assets/frame-R.png)', backgroundPosition: 'right' }}
+        style={{ backgroundImage: 'url(assets/frame-R.png)', backgroundPosition: 'right' }}
       ></div>
     </>
   );

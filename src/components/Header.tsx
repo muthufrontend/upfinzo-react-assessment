@@ -14,7 +14,7 @@ const Header = () => {
     <header className="relative z-10 border-b border-gray-800">
       <div className="container mx-auto px-4 py-6 flex justify-between items-center">
         <div className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
-          <img src="/Logo.svg" alt="UzOFin" className="h-8 w-auto" />
+          <img src="assets/Logo.svg" alt="UzOFin" className="h-8 w-auto" />
         </div>
 
         <nav className="hidden md:flex space-x-8">

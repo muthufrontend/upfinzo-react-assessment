@@ -40,7 +40,7 @@ const Hero = () => {
                 className="transition-transform duration-300 hover:scale-110 hover:opacity-90 hover:drop-shadow-[0_0_10px_rgba(55,204,247,0.6)]"
                 >
                 <img
-                    src={`/assets/${frame}.svg`}
+                    src={`assets/${frame}.svg`}
                     alt={`Logo ${i+1}`}
                     className="w-32 h-32"
                 />
